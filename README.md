@@ -161,6 +161,12 @@ material are described, not shipped.
 
 ---
 
+## Roadmap
+
+Design questions, known limitations, and research directions (e.g. treating the
+gamma fit as a *carrier* rather than *the model*, and a continuous
+departure-from-gamma descriptor) live in [docs/ROADMAP.md](docs/ROADMAP.md).
+
 ## License
 
 [Apache-2.0](LICENSE). The ArcParam method was developed by James Croall;
